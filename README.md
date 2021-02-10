@@ -11,9 +11,9 @@ My Socials
 
 Skills And Experience
 ---
-<a><img alt="c++" title="c++" height="32" width="32" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
-<img alt="python" title="python" height="32" width="32" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
-<img alt="css" title="css" height="32" width="32" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"></a>
+<a><img alt="c++" title="c++" height="35" width="32" src="https://duckduckgo.com/i/759a5cf7.png">
+<img alt="python" title="python" height="32" width="32" src="https://magazines-attachments.raspberrypi.org/magpi/legacy-assets/2015/10/Python-logo-notext.svg_.png">
+<img alt="css" title="css" height="32" width="32" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1"></a>
 
 
 
